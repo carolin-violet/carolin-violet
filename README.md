@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  [![Blog](https://img.shields.io/badge/Blog-carolin--violet.cn-blue?style=flat-square&logo=google-chrome)](http://halo.carolin-violet.cn:8000)
-  [![Bookmark](https://img.shields.io/badge/Bookmark-carolin--violet.cn-blue?style=flat-square&logo=google-chrome)](http://bookmark.carolin-violet.cn:8000)
+[![Blog](https://img.shields.io/badge/Blog-carolin--violet.cn-7C3AED?style=flat-square&logo=google-chrome&logoColor=white)](http://halo.carolin-violet.cn:8000)
+[![Bookmark](https://img.shields.io/badge/Bookmark-carolin--violet.cn-EC4899?style=flat-square&logo=google-chrome&logoColor=white)](http://bookmark.carolin-violet.cn:8000)
   
 </div>
 
@@ -46,7 +46,7 @@
 
 ### 后端开发
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)

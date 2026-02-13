@@ -24,8 +24,7 @@
     </td>
     <td align="center">
 
-      <img src="./image1.webp" alt="Carolin Violet" width="220" />
-
+      <img src="image1.webp" alt="Carolin Violet" width="220" />
     </td>
   </tr>
 </table>

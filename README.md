@@ -24,7 +24,7 @@
     </td>
     <td align="center">
 
-      <img src="[./image1.webp](https://raw.githubusercontent.com/carolin-violet/carolin-violet/refs/heads/main/image1.webp)" alt="Carolin Violet" width="220" />
+      <img src="https://raw.githubusercontent.com/carolin-violet/carolin-violet/refs/heads/main/image1.webp" alt="Carolin Violet" width="220" />
 
     </td>
   </tr>

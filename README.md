@@ -31,7 +31,6 @@
 
 ## 🛠️ 技术栈、
 
-[http://minio-api.carolin-violet.cn:8000/wallpaper/7a4583f0ece06f45dd8f3aa4cd5a3b9a_1768306580063.webp](http://minio-api.carolin-violet.cn:8000/wallpaper/7a4583f0ece06f45dd8f3aa4cd5a3b9a_1768306580063.webp)
 
 ### 前端开发
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)

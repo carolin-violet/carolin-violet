@@ -23,9 +23,9 @@
 
     </td>
     <td align="center">
-![wallpaper](http://minio-api.carolin-violet.cn:8000/wallpaper/7a4583f0ece06f45dd8f3aa4cd5a3b9a_1768306580063.webp)
+      <img src="http://minio-api.carolin-violet.cn:8000/wallpaper/7a4583f0ece06f45dd8f3aa4cd5a3b9a_1768306580063.webp" alt="wallpaper" width="520" />
 
-
+    </td>
   </tr>
 </table>
 

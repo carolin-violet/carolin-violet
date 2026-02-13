@@ -57,20 +57,11 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolin-violet&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolin-violet&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carolin-violet&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolin-violet&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ## 📈 贡献图
 

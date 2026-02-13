@@ -23,7 +23,7 @@
 
     </td>
     <td align="center">
-      <img src="http://minio-api.carolin-violet.cn:8000/wallpaper/7a4583f0ece06f45dd8f3aa4cd5a3b9a_1768306580063.webp" alt="wallpaper" width="520" />
+      <img src="http://minio-api.carolin-violet.cn:8000/wallpaper/6579f29da3023a3ba0fde6c78abc7b13_1768307404987.webp" alt="wallpaper" width="520" />
 
     </td>
   </tr>
